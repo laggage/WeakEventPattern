@@ -1,0 +1,7 @@
+F:\Laggage\CodeRepository\DotNet\C#\WeakEventPattern\WeakEventPattern\bin\Debug\WeakEventPattern.exe.config
+F:\Laggage\CodeRepository\DotNet\C#\WeakEventPattern\WeakEventPattern\bin\Debug\WeakEventPattern.exe
+F:\Laggage\CodeRepository\DotNet\C#\WeakEventPattern\WeakEventPattern\bin\Debug\WeakEventPattern.pdb
+F:\Laggage\CodeRepository\DotNet\C#\WeakEventPattern\WeakEventPattern\obj\Debug\WeakEventPattern.csprojAssemblyReference.cache
+F:\Laggage\CodeRepository\DotNet\C#\WeakEventPattern\WeakEventPattern\obj\Debug\WeakEventPattern.csproj.CoreCompileInputs.cache
+F:\Laggage\CodeRepository\DotNet\C#\WeakEventPattern\WeakEventPattern\obj\Debug\WeakEventPattern.exe
+F:\Laggage\CodeRepository\DotNet\C#\WeakEventPattern\WeakEventPattern\obj\Debug\WeakEventPattern.pdb
